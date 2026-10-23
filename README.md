@@ -66,11 +66,13 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.zsh/plugin
 
 若要使用 `extract` 支援的全部格式，請安裝以下解壓工具：
 
+Ubuntu：
 ```sh
-# Ubuntu（APT）
 sudo apt install tar gzip bzip2 xz-utils unzip
+```
 
-# Fedora：使用這行取代上面的 APT 指令
+Fedora：
+```sh
 sudo dnf install tar gzip bzip2 xz unzip
 ```
 
