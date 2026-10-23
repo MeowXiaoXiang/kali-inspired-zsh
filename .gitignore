@@ -1,0 +1,6 @@
+# Personal extensions and local Python artifacts
+.zsh_config
+.zsh_aliases
+.zsh_local
+__pycache__/
+*.pyc
